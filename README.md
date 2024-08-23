@@ -15,7 +15,7 @@ I'm **Rajeswari**, a passionate Frontend Developer with a keen interest in web d
 
 #### 📚 Currently Learning
 - **Next.js**: Learning to leverage its powerful features for server-side rendering and static site generation to improve the e-commerce product I'm working on.
-- 
+- **React.js**
 #### 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/rajeswari-pakkiadoss/)
 
